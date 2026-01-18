@@ -1,4 +1,4 @@
-# Physics Wallah Study Timer
+# Study Timer
 
 A modern, aesthetic floating study timer designed to help you track your study sessions on **Physics Wallah**.  
 The timer **starts automatically** when the Physics Wallah tab is active in your browser and **pauses** when you switch tabs. You can also **manually start and stop** the timer anytime.  
