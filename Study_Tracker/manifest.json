@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Physics Wallah Auto Study Timer",
+  "version": "1.0",
+  "description": "Automatically tracks study time on Physics Wallah",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
